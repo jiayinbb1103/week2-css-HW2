@@ -1,0 +1,36 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+}
+
+header{
+  background-color: bisque;
+}
+
+nav{
+  background-color: plum;
+}
+
+main{
+  background-color: mistyrose;
+  font-size: 30px;
+}
+
+footer{
+  background-color: cornsilk;
+}
+
+li{
+  display: inline-block;
+  width: 350px;
+}
+
+h1{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(6, 123, 162);
+}
+
+p{
+  line-height: 150%;
+}
